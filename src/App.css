@@ -1,0 +1,120 @@
+.App {
+  text-align: center;
+  /* border: 1px solid wheat; */
+}
+
+.title {
+  padding: 1rem;
+  color: #f8e559;
+}
+
+.budget-summary {
+  color: #dcf2f1;
+  border: 3px solid #f8e559;
+  border-radius: 15px;
+  width: 700px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  padding: 1.25rem;
+}
+
+.budget-summary input {
+  background-color: transparent;
+  border: 1px solid #dcf2f1;
+  outline: none;
+  margin-left: 5px;
+  color: #dcf2f1;
+  font-size: 16px;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+form {
+  margin: 20px 0;
+}
+
+form h3 {
+  color: #f8e559;
+}
+
+form label {
+  color: #f8e559;
+}
+
+form h3 {
+  margin-bottom: 1rem;
+}
+
+form div {
+  font-weight: bold;
+  align-items: center;
+  font-size: 22px;
+  width: 300px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+form input {
+  padding: 5px;
+  background-color: transparent;
+  outline: none;
+  border: 1px solid #dcf2f1;
+  margin-bottom: 5px;
+  color: #dcf2f1;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #f8e559;
+  color: #864af9;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #864af9;
+  color: #f8e559;
+}
+
+h3 {
+  color: #f8e559;
+  margin-bottom: 10px;
+}
+
+li {
+  color: #f8e559;
+  font-size: 22px;
+  margin-bottom: 1rem;
+  max-width: 300px;
+  margin: 10PX auto;
+  list-style: none;
+  text-align: center;
+}
+
+.xBtn {
+  padding: 4px 8px;
+  margin-left: 15px;
+  border-radius: 5px;
+  text-transform: uppercase;
+}
+
+.chart {
+  height: 400px;
+  width: 400px;
+  color: #f8e559;
+  margin: 0 auto;
+}
+
+
+
+
+
+
+
+
